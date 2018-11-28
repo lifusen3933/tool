@@ -5,6 +5,16 @@
     - [群活码](http://www.gulugj.com/help-qhm.html)
     - [客服码](http://www.gulugj.com/help-kfm.html)
     - [渠道码](http://www.gulugj.com/help-qdm.html)
+    
+### [社群助手](http://www.xusqgl.com/Cases.aspx)
+
+![](https://pics.ibrainbaby.cn/2018-11-28-%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-28%20%E4%B8%8A%E5%8D%8811.20.53.png)
+
+### [一起学堂](http://www.17vsell.com/article/al)
+
+![](https://pics.ibrainbaby.cn/2018-11-28-%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-28%20%E4%B8%8A%E5%8D%8811.23.51.png)
+
+### [第九工场](http://www.9thws.com)
 
 ### [growingio](https://www.growingio.com)
 基于用户行为的新一代数据分析产品，首推国内领先的“分析工具+运营咨询+持续增长”数据服务体系，帮助企业构建数据运营闭环。依托于快速部署无埋点技术，实时采集全量行为数据，通过搭建完整的数据监控体系，高效管控核心业务指标，帮助企业用数据驱动业务增长。
