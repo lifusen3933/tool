@@ -6,6 +6,46 @@
     - [客服码](http://www.gulugj.com/help-kfm.html)
     - [渠道码](http://www.gulugj.com/help-qdm.html)
     
+### 客服／机器人  
+- [知行客服](http://www.wanweixin.com/index.php/viewnews-6170)
+
+- [微友助手](http://blog.deepvision.ai/detail/5913d6e8f2151c37f8a844a8.html)是专业的微信群机器人管理专家。拥有群数据分析，新加好友自动应答，自动拉人入群，自动加群用户为好友，入群欢迎语，机器人聊天，消息定时群发，机器人自动回复，群签到，微信群文件、群成员管理等数十项强大功能
+- [图灵机器人](http://www.tuling123.com/)
+### 裂变
+- [小橙拼团](http://baozhi.sxl.cn/2)
+  - 拼团+分销，佣金实时到帐;对接群裂变/个人裂变，赚钱+吸粉;支持小程序发放电子券，线下核销，O2O引流;发起活动便捷，也可定制专属拼团小程序
+- [爆汁推送](http://baozhi.sxl.cn/9)
+  - 打破服务号一月4次推送限制.自主设置推送频率、推送时段
+
+### 短信群发
+- [互亿无线](http://www.ihuyi.com/)，价格：23000条／1500元，10000条／700元  
+- 有赞短信群发
+  
+### 社群裂变
+- [八爪鱼](https://www.bzy.ai/product-feature)  
+![](https://pics.ibrainbaby.cn/2018-12-06-31543979627_.pic.jpg)
+
+比如说，你2000块钱买了167个群，这些算是余额，是永久的；
+你建了个活动，活动下面用了50个群，这50个群服务持续一个月；
+同时会扣50个余额，还剩127个群余额；
+次月这50个群你可以选择续费或者中止服务，续费只扣25个群余额，中止的话你可以把群主转让给自己
+
+- [进群宝]()
+![](https://pics.ibrainbaby.cn/2018-12-06-31543980448_.pic_hd.jpg)
+
+  - 新建群之后 机器人 可以使用30天的功能 之后如果还需要的话 就要续费的呢 100群豆/群/30天
+
+
+- [爆汁裂变](http://baozhi.sxl.cn/3)
+  - 3000元／150个群
+- [咕噜管家](http://me.gulugj.com/Member/Member/Purchase?project=robotweb&token=cf0b1511599b92000eae0e87b30038ae)
+
+  - 100个群，有效期3个月，费用2500元。
+  
+### 直播
+- [微赞直播](https://live.vzan.com/) 
+- [OBS直播软件](http://www.obszhibo.com/index.aspx)
+    
 ### [社群助手](http://www.xusqgl.com/Cases.aspx)
 
 ![](https://pics.ibrainbaby.cn/2018-11-28-%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-11-28%20%E4%B8%8A%E5%8D%8811.20.53.png)
